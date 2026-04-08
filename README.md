@@ -1,9 +1,11 @@
+This is a repository for a school project from 2021. The goal was to design and implement a REST web API and a client to use it.
+
 # PWP SPRING 2021
 # Material Database
 # Group information
-* Student 1. Mohammad Bagheri Email: mohammad.bagheri@oulu.fi
-* Student 2. Joni Barsk  Email: joni.barsk@outlook.com
-* Student 3. Lasse Hyyryläinen Email: lasse.hyyrylainen@student.oulu.fi
+* Student 1. Mohammad Bagheri
+* Student 2. Joni Barsk
+* Student 3. Lasse Hyyryläinen
 
 # Database setup
 ## Requirements and Creating Database
