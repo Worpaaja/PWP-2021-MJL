@@ -1,4 +1,4 @@
-This is a repository for a school project from 2021. The goal was to design and implement a REST web API and a client to use it.
+This is a repository for a school project from 2021. The goal was to design and implement a REST web API and a client to use it. Part of the project was also to create test suites for the API.
 <br>
 <br>
 <br>
